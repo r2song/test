@@ -1,1 +1,10 @@
-
+	  <details id="details">
+		  #details[open] {
+		  background-color: #cdedfd;
+		  background-image: linear-gradient(
+		  319deg,
+		  #cdedfd 0%
+		  #ffec82 37%
+		  #ffcfd2 100%
+		  );
+		  }
